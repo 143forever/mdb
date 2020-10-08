@@ -4,7 +4,6 @@
 # Prevent certain files from being exported:
 .gitattributes  export-ignore
 .gitignore      export-ignore
-.gitmodules     export-ignore
 libmariadb      export-ignore
 test            export-ignore
 .travis         export-ignore
